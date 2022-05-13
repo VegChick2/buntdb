@@ -1,4 +1,4 @@
-module github.com/tidwall/buntdb
+module github.com/VegChick2/buntdb
 
 go 1.18
 
